@@ -10,9 +10,9 @@
     // 1. CẤU HÌNH HỆ THỐNG (BÍ MẬT)
     const _CONFIG = {
         // URL Google Apps Script của bạn
-        ENDPOINT: "https://script.google.com/macros/s/AKfycbw1eNz2FzJAblDvygSOm-qOnW-_eTEN2j1zsjvyVlg-XwaYYS7DrGFg0Qn-EUDiUfbPFg/exec",
+        ENDPOINT: "https://script.google.com/macros/s/AKfycbzuK5LPOmCs2vnOQF5C3IaFy2d2zoh9fgRBjD4M56KdWS2-nf7P6vl8LGXYRDR59pD1/exec",
         // ID Google Spreadsheet của bạn
-        SHEET_ID: "1RVd9SqnypaZbBUvkCcX3sre2HoyEc8dZ1hhnHmHeh8g"
+        SHEET_ID: "1ejs1r1fb1O9HqCUBm02HQ77Oq6RK73kgYWjo7CuLiLY"
     };
 
     class EduTechSystem {
